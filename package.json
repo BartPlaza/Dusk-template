@@ -1,0 +1,33 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "Gulp template for website projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartPlaza/Dusk-template.git"
+  },
+  "keywords": [
+    "dusk",
+    "template",
+    "website"
+  ],
+  "author": "Bart Plaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartPlaza/Dusk-template/issues"
+  },
+  "homepage": "https://github.com/BartPlaza/Dusk-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-6to5": "^3.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
