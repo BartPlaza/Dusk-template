@@ -8,5 +8,7 @@ Contains:
 
 1. clone project
 2. npm install
+
 3a. run in console "gulp build" to build production version and make public directory.
+or
 3b. run in console "gulp watch' to build production version and watch changes on the fly in browser.
